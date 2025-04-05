@@ -1,4 +1,5 @@
 #!/usr/bin/env node
+// Code for blog post https://leanrada.com/notes/css-only-lqip/
 import path from "node:path";
 import { rewrite } from "./rewrite/rewrite.mjs";
 import sharp from "sharp";
